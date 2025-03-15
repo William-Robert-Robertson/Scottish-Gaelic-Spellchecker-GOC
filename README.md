@@ -3,7 +3,7 @@ Scottish Gaelic Spellchecker - GOC (Gaelic Orthographic Convention)
 
 This is a mirror of the GOC (Gaelic Orthographic Convention) [hunspell](https://hunspell.github.io/) spell checker for Scottish Gaelic.
 
-To spell check using both traditional orthograpohy and GOC orthography please use the universal spell checker [https://github.com/William-Robert-Robertson/Scottish-Gaelic-Spellchecker-Universal](https://github.com/William-Robert-Robertson/Scottish-Gaelic-Spellchecker-Universal)
+To spell check using both traditional orthography and GOC orthography please use the universal spell checker [https://github.com/William-Robert-Robertson/Scottish-Gaelic-Spellchecker-Universal](https://github.com/William-Robert-Robertson/Scottish-Gaelic-Spellchecker-Universal)
 
 The spell checker is based on the lexical database behind [www.faclair.com](https://www.faclair.com), has over 80'000 headwords and is able to check over 2.8 million conjugates.
 
