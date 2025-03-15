@@ -9,4 +9,4 @@ The spell checker is based on the lexical database behind [www.faclair.com](http
 
 The spell checker is provided as a LibreOffice extension here:
 
-[https://extensions.libreoffice.org/en/extensions/show/an-dearbhair-beag-scottish-gaelic-spellchecker](https://extensions.libreoffice.org/en/extensions/show/27426](https://extensions.libreoffice.org/en/extensions/show/an-dearbhair-beag-scottish-gaelic-spellchecker](https://extensions.libreoffice.org/en/extensions/show/27426)
+[https://extensions.libreoffice.org/en/extensions/show/27426](https://extensions.libreoffice.org/en/extensions/show/27426)
