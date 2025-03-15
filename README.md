@@ -1,7 +1,7 @@
 # Scottish Gaelic Spellchecker - GOC
 Scottish Gaelic Spellchecker - GOC (Gaelic Orthographic Convention)
 
-This is a mirror of the GOC (Gaelic Orthographic Convention) hunspell spell checker for Scottish Gaelic.
+This is a mirror of the GOC (Gaelic Orthographic Convention) [hunspell](https://hunspell.github.io/) spell checker for Scottish Gaelic.
 
 To spell check using both traditional orthograpohy and GOC orthography please use the universal spell checker [https://github.com/William-Robert-Robertson/Scottish-Gaelic-Spellchecker-Universal](https://github.com/William-Robert-Robertson/Scottish-Gaelic-Spellchecker-Universal)
 
